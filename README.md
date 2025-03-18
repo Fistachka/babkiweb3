@@ -1,6 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![5 зас](https://github.com/user-attachments/assets/6e308684-b952-47b4-837e-ee3553a984fd)
+![в5](https://github.com/user-attachments/assets/1b3047f2-a86d-4346-a90d-1d22cdd26393)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/mLWzaDiKy0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
@@ -16,7 +16,7 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![5 зас](https://github.com/user-attachments/assets/6e308684-b952-47b4-837e-ee3553a984fd)
+![в5](https://github.com/user-attachments/assets/1b3047f2-a86d-4346-a90d-1d22cdd26393)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/APNVgBg-z4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
