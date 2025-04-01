@@ -30,3 +30,4 @@ Ekh, igraj-nayarivaj,
 Poj chastushki, babka YOzhka,
 Poj ne razgovarivaj.<br><br>
 
+![в5](https://github.com/user-attachments/assets/1b3047f2-a86d-4346-a90d-1d22cdd26393)
