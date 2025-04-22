@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>babkiweb3</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="fiksikiweb"/>
   <readme>
-    <ru>ac8ea5aefb7ef1bd10636284cd2cda547e3e57458650e4a8560e5daf3b327cc8</ru>
-    <en>95d75814234fd6dc1ceb0616c8384747d3cc0572ef8ff65f362db10a9d2c13d4</en>
+    <ru>56d68f1ac6d668a2ca6a9aa38ace1aa09a62c4f20e0f0c90c3691b907519155b</ru>
+    <en>9ad43983ed5b88c2097262ac7b8c5b1dd9c4ef41f85a1ae9752c22b95f30f5c2</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
