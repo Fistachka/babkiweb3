@@ -12,7 +12,10 @@
 Растяни меха, гармошка,
 Эх, играй-наяривай,
 Пой частушки, бабка Ёжка,
-Пой не разговаривай.<br><br>
+Пой не разговаривай.
+
+Предыдущий урок: stolbitsa.com/fistachka/babkiweb2
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -28,5 +31,7 @@ ZHal' chto on ne vkusnyj.
 Rastyani mekha, garmoshka,
 Ekh, igraj-nayarivaj,
 Poj chastushki, babka YOzhka,
-Poj ne razgovarivaj.<br><br>
+Poj ne razgovarivaj.
+
+Previous lesson: stolbitsa.com/fistachka/babkiweb2<br><br>
 
